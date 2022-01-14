@@ -13,7 +13,7 @@
 #       Created:                22.12.2021
 #       Last Changed:           14.01.2022
 #       This check is currently tested with the following PiHole Versions:
-#									Pi-hole v5.8.1 / FTL v5.13 / Web Interface v5.10.1
+#				Pi-hole v5.8.1 / FTL v5.13 / Web Interface v5.10.1
 #       Credits:                -
 #
 #====================================================================================================#
