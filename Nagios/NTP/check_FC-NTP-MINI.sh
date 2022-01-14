@@ -7,7 +7,7 @@
 #
 #       Usage:                  .\check_FC-NTP-MINI.sh -h ntp.example.com -o gps -w 10 -c 5 -u admin -p admin
 #       Description:            inital public Version
-#       Author:                 Daniel Eberhorn <github@securitywho.com>
+#       Author:                 Daniel Eberhorn <github <at> securitywho.com>
 #
 #       Requirements:           Package "html2txt" for the subcheck "ntpstatus" is required.
 #       Created:                11.01.2022
